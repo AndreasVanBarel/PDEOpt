@@ -1,0 +1,10 @@
+[deps]
+Atom = "c52e3926-4ff0-5f6e-af25-54175e0327b1"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+Juno = "e5e0dc1b-0480-54bc-9374-aad01c23163d"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
